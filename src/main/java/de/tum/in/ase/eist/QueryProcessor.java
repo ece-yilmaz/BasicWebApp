@@ -36,8 +36,6 @@ public class QueryProcessor {
                 }
             }
             return "" + highest;
-            // } else if (query.contains("name")) {
-            // return "Nico";
         } else { // TODO extend the programm here
             return "";
         }
